@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>raba</string>
+			<key>ModifiedRange</key>
+			<string>{1076, 4}</string>
+			<key>OriginalContent</key>
+			<string>ap here the biggest prob</string>
+			<key>OriginalRange</key>
+			<string>{1076, 24}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1081, 0}</string>
+			<key>OriginalContent</key>
+			<string>em t</string>
+			<key>OriginalRange</key>
+			<string>{1101, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1082, 0}</string>
+			<key>OriginalContent</key>
+			<string>at y</string>
+			<key>OriginalRange</key>
+			<string>{1106, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1083, 0}</string>
+			<key>OriginalContent</key>
+			<string>u</string>
+			<key>OriginalRange</key>
+			<string>{1111, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>d</string>
+			<key>ModifiedRange</key>
+			<string>{1084, 1}</string>
+			<key>OriginalContent</key>
+			<string>ar</string>
+			<key>OriginalRange</key>
+			<string>{1113, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1087, 0}</string>
+			<key>OriginalContent</key>
+			<string>fa</string>
+			<key>OriginalRange</key>
+			<string>{1117, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>o</string>
+			<key>ModifiedRange</key>
+			<string>{1088, 1}</string>
+			<key>OriginalContent</key>
+			<string>i</string>
+			<key>OriginalRange</key>
+			<string>{1120, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>clusão</string>
+			<key>ModifiedRange</key>
+			<string>{1090, 6}</string>
+			<key>OriginalContent</key>
+			<string>g</string>
+			<key>OriginalRange</key>
+			<string>{1122, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1097, 0}</string>
+			<key>OriginalContent</key>
+			<string>to</string>
+			<key>OriginalRange</key>
+			<string>{1124, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>e</string>
+			<key>ModifiedRange</key>
+			<string>{1098, 1}</string>
+			<key>OriginalContent</key>
+			<string>ay,</string>
+			<key>OriginalRange</key>
+			<string>{1127, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>cur</string>
+			<key>ModifiedRange</key>
+			<string>{1100, 3}</string>
+			<key>OriginalContent</key>
+			<string>plea</string>
+			<key>OriginalRange</key>
+			<string>{1131, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>o</string>
+			<key>ModifiedRange</key>
+			<string>{1104, 1}</string>
+			<key>OriginalContent</key>
+			<string>e</string>
+			<key>OriginalRange</key>
+			<string>{1136, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/PlaygroundPage2.playgroundpage/main.swift</string>
+</dict>
+</plist>
